@@ -1,6 +1,6 @@
 Data Analysis
 
-Sources of error and ways for compensating errors
+Sources of error and ways to compensating errors
 
 1. Multipath: Multipath errors can be avoided by placing GNSS antenna that is away from reflective surfaces
 2. Receiver noise: The receiver code noise is a white-like error and can be smoothed using a low pass filter. 
